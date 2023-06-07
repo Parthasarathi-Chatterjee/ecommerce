@@ -1,0 +1,100 @@
+{
+  "seller": [
+    {
+      "name": "Partha Chatterjee",
+      "email": "parthasarathichatterjee000@gmail.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "Raja Chatterjee",
+      "email": "asarathichatterjee000@gmail.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "rabi",
+      "password": "abc@123",
+      "email": "",
+      "id": 5
+    },
+    {
+      "name": "lolit",
+      "password": "abc@!23",
+      "email": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 7
+    },
+    {
+      "name": "sdhbn",
+      "password": "745841",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "sdhbn",
+      "password": "745841",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "sdhbn",
+      "password": "745841",
+      "email": "",
+      "id": 10
+    },
+    {
+      "name": "ravi",
+      "password": "abc@123",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 12
+    },
+    {
+      "name": "anil",
+      "password": "abc@123",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "ratan",
+      "password": "abc@123",
+      "email": "",
+      "id": 14
+    },
+    {
+      "name": "partha",
+      "password": "1234",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "partha",
+      "password": "1345",
+      "email": "",
+      "id": 16
+    },
+    {
+      "name": "parthasarathi",
+      "password": "kakababu",
+      "email": "",
+      "id": 17
+    },
+    {
+      "name": "raja",
+      "password": "kalu",
+      "email": "",
+      "id": 18
+    }
+  ]
+}
